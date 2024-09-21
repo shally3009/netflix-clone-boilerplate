@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+#background{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    z-index: -1;
+    opacity: 85%;
+}
+
+#logo {
+    position: absolute;
+    top: 0px;
+    width: 120px;
+    margin: 20px;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+.topbar nav{
+    position: absolute;
+    top: 10px;
+    margin: 20px;
+    margin-left: 180px;
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 15px;
+}
+
+.topRight{
+    position: absolute;
+    word-spacing: 15px;
+    top: 10px;
+    left: 1300px;
+}
+
+#netIcon {
+    height: 30px;
+    position:absolute;
+    top: 400px;
+    margin-left: 70px;
+}
+
+.nshow{
+    position:absolute;
+    top: 406px;
+    margin-left: 180px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.mainTitle h1{
+    position:absolute;
+    top: 520px;
+    margin-left: 64px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+.play{
+    position:absolute;
+    top: 400px;
+    margin-left: 64px;
+    padding: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#playbutton{
+    width: 15px;
+    margin-right: 3px;
+}
+
+.moreInfo{
+    position:absolute;
+    top: 520px;
+    margin-left: 100px;
+    padding: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgba(199, 176, 176, 0.61);
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+#moreinf{
+    width: 15px;
+    margin-right: 3px;
+}
+
+.seeAgain {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.see{
+    margin-top: 25px;
+    margin-left: 15px;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.topTen {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.topThen {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.one {
+    display: flex;
+    justify-content:space-between;
+    margin-left: 50px
+}
+
+.trendText {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left:50px;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.Sifi {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;   
+}
